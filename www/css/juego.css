@@ -1,0 +1,23 @@
+body{
+	background-color: #77ce80
+;
+	margin: 0px;
+	padding: 0px;
+}
+#bola{
+	border-radius: 100%;
+	width: 18px;
+	height: 18px;
+	background-color:#0f2154;
+}
+
+.footer{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	display: block;
+    position: absolute;
+	margin: 250px 0px 0px 0px;
+	background-color: #1c3f20;
+	padding: 10px 0px 10px 0;
+}
